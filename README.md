@@ -83,8 +83,7 @@ The current script is configured to search for "bhasin group india" and extract 
 For more detailed information about browser-use, please refer to the [official documentation](https://docs.browser-use.com/quickstart).
 
 ## License
-
-[Add your license information here]
+MIT License
 
 ## Contributing
 

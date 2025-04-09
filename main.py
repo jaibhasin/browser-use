@@ -26,7 +26,7 @@ llm = ChatGoogleGenerativeAI(model='gemini-2.0-flash-exp', api_key=SecretStr(os.
 
 async def main():
     agent = Agent(
-    task="search for bhasin group india and give me emails of the top 5 people",
+    task="Get the latest price of bitcoin, ethereum and cardano and also show volume traded",
     llm=llm,
     browser=browser
     )
